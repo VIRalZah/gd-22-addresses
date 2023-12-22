@@ -1,0 +1,2 @@
+MenuLayer::init - 0x276700; MenuLayer::init(MenuLayer* self)
+LoadingLayer::init - 0x271B30; LoadingLayer::init(LoadingLayer* self, bool bFromReload)
